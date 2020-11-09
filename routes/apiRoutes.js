@@ -1,4 +1,4 @@
-// Connect routes to journal data.
+// Connect routes to note data.
 var noteData = require("../data/noteData");
 
 // Routing
