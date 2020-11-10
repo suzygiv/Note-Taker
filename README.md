@@ -11,7 +11,7 @@ An application that can be used to write, save, and delete notes. This applicati
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Screenshots](#Screenshots)
-- [Heroku Link](#Heroku)
+- [Heroku](#Heroku)
 - [Licence](#Licence)
 - [Contributors](#Contributors)
 - [GitHub Info](#GitHub) 
@@ -42,7 +42,7 @@ https://suzy-note-taker.herokuapp.com/
 [MIT License](http://opensource.org/licenses/mit-license.php)
 
 ## Contributors
-[Suzanne Givnish](https://github.com/suzygiv) and my tutor, Mazin.
+[Suzanne Givnish](https://github.com/suzygiv)
 
 
 ## Questions?
