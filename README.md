@@ -30,7 +30,7 @@ Once 'App listening on PORT: 3000' displays in your terminal, open your browser 
 
 ## Screenshots
 
-![Note Taker]()
+![Note Taker](https://github.com/suzygiv/Note-Taker/blob/main/assets/note-taker.PNG)
 
 ## Heroku Link
 
